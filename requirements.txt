@@ -1,0 +1,7 @@
+pypdf
+langchain
+langchain-text-splitters
+langchain-mistralai
+ipykernel
+pinecone
+python-dotenv
