@@ -13,5 +13,6 @@ setup(
         "python-dotenv",
         "pinecone",
         "ipykernel",
+        "langchain-community",
     ]
 )

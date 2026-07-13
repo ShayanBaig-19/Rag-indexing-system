@@ -5,3 +5,4 @@ langchain-mistralai
 ipykernel
 pinecone
 python-dotenv
+langchain-community
