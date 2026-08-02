@@ -6,3 +6,4 @@ ipykernel
 pinecone
 python-dotenv
 langchain-community
+-e .
